@@ -2,9 +2,9 @@
     "name": "Appearance",
     "description": "Go from light mode to dark mode and vice versa",
     "version": "1.0.0",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "background": {
-        "Scripts": [
+        "scripts": [
             "script.js"
         ],
         "persistent": true
